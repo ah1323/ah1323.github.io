@@ -22,13 +22,13 @@ repository               : "ah1323/ah1323.github.io"
 author:
   # Biographic information
   avatar           : "ea2a2910-enhanced-nr.jpg.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Mathematics Teacher"
+  pronouns         : "she/her"  
+  bio              : "TIME 2000 Mathematics Education 7-12"
+  location         : "New York"
+  employer         : "Queens College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "angelin2224@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
